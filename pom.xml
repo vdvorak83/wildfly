@@ -218,7 +218,7 @@
         <version.org.picketbox.picketbox-commons>1.0.0.final</version.org.picketbox.picketbox-commons>
         <version.org.picketlink>2.7.0.Final</version.org.picketlink>
         <version.org.scannotation>1.0.3</version.org.scannotation>
-        <version.org.slf4j>1.7.7.jbossorg-1</version.org.slf4j>
+        <version.org.slf4j>1.7.26</version.org.slf4j>
         <version.org.syslog4j>0.9.30</version.org.syslog4j>
         <version.org.testng>6.1.1</version.org.testng>
         <version.org.wildfly.build-tools>1.0.0.Final</version.org.wildfly.build-tools>
